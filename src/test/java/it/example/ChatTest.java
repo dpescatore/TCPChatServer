@@ -13,9 +13,7 @@ import org.junit.Test;
 import org.junit.jupiter.api.DisplayName;
 
 /**
- * Responsible of some tests for different scenarios, due to not predictable
- * concurrency interleaving, single testing should be preferred over complete
- * scenario testing.
+ * Responsible of some tests for different scenarios.
  */
 public class ChatTest {
 
